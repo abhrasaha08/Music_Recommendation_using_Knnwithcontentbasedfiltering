@@ -1,0 +1,149 @@
+Song_Name,Artist_Name,,Tempo,Energy,Danceability,Acousticness,Release_Year,Song_Type
+Someone Like You                                 ,Adele,,135,32,56,89,2011,Sad
+Hurt                                             ,Johnny Cash,,90,39,53,65,2006,Sad
+Fix You                                          ,Coldplay,,138,42,21,16,2005,Sad
+Let Her Go                                       ,Passenger,,75,55,48,37,2012,Sad
+Yesterday                                        ,The Beatles,,97,18,33,88,1965,Sad
+The Night We Met                                 ,Lord Huron,,87,37,55,97,2015,Sad
+Everybody Hurts                                  ,R.E.M.,,94,32,47,62,1993,Sad
+I  wanna be yours,Arctic Monkeys,,68,42,46,14,2014,Sad
+Tears in Heaven                                  ,Eric Clapton,,154,24,50,84,1992,Sad
+I Will Always Love You                           ,Whitney Houston,,68,21,33,85,1992,Sad
+Amar Hiyar Majhe                                 ,Lata Mangeshkar,,150,34,29,98,2006,Sad
+Tumi Robe Nirobe                                 ,Hemanta Mukherjee,,127,9,44,99,1971,Sad
+Bhalobeshe Sakhi                                 ,Debabrata Biswas,,148,42,68,85,2012,Sad
+Tomake Chai                                      ,Kabir Suman,,80,62,49,83,2016,Sad
+Chokher Jole                                     ,Shyamal M.,,150,75,61,78,2009,Sad
+Bhalobasar Morshum,Shreya Ghoshal,,149,32,30,82,2022,Sad
+Ei Obelay                                        ,Nachiketa Chakraborty,,148,51,50,60,2023,Sad
+Bohemian Rhapsody                                ,Queen,,144,39,40,27,2006,Energetic
+Hotel California                                 ,Eagles,,147,51,58,1,1976,Energetic
+Stairway to Heaven                               ,Led Zeppelin,,82,34,34,58,1971,Energetic
+Smoke on the Water                              ,Deep Purple,,114,59,63,10,1972,Energetic
+Sweet Child O’ Mine                              ,Guns N’ Roses,,125,95,45,9,1987,Energetic
+Wonderwall                                       ,Oasis,,175,85,41,0,1995,Energetic
+Livin’ on a Prayer                               ,Bon Jovi,,123,89,53,8,1986,Energetic
+Back in Black                                    ,AC/DC,,188,70,31,1,1980,Energetic
+Nothing Else Matters                             ,Metallica,,142,39,55,5,1991,Energetic
+Comfortably Numb                                 ,Pink Floyd,,127,37,47,15,1979,Energetic
+Prithibi ta naki                                 ,Mohiner Ghoraguli,,153,38,38,39,2012,Energetic
+Ekla Ghor                                        ,Fossils,,138,53,66,24,2001,Energetic
+Hasnuhana                                        ,Chandrabindoo,,133,52,53,30,2012,Energetic
+Aro Ekbar                                        ,Fossils,,137,48,39,7,2001,Energetic
+Amar Shonar Bangla (Rock Version)                ,LRB,,130,16,41,96,2014,Energetic
+Mon                                              ,Chandrabindoo,,80,51,65,37,2003,Energetic
+Classroom                                        ,Prithibi,,140,66,50,2,2010,Energetic
+Purnota                                          ,Warfaze,,120,71,58,55,2012,Energetic
+Aha Ki Anando                                    ,Hemanta Mukherjee,,80,37,49,93,1980,Happy
+Coffee Houser Sei Adda Ta                        ,Manna Dey,,123,42,62,90,1982,Happy
+Jibone Ki Pabona                                 ,Teen Bhubaner Parey,,100,69,86,14,2023,Happy
+Amar vitoro bahire                               ,Rudra Mohammad,,120,72,70,50,2010,Happy
+Ami Kolkatar Rosogolla                           ,Manna Dey,,100,71,72,60,2015,Happy
+Tumi Je Aamar                                    ,Kishore Kumar & Asha Bhosle,,81,56,36,49,1987,Happy
+Pagla Hawa                                       ,Anupam Roy,,100,70,80,53,2012,Happy
+Priyotoma,Rupankar Bagchi,,130,51,55,86,2023,Happy
+Dekhte Bou Mon Lage                             ,Arijit Singh,,134,43,69,70,2015,Happy
+Happy                                            ,Pharrell Williams,,160,82,65,22,2014,Happy
+Walking on Sunshine                              ,Katrina & The Waves,,110,87,60,1,1985,Happy
+Can’t Stop the Feeling!                          ,Justin Timberlake,,113,83,67,1,2016,Happy
+Don’t Stop Me Now                                ,Queen,,156,86,47,2,2020,Happy
+I Gotta Feeling                                  ,The Black Eyed Peas,,128,77,74,9,2009,Happy
+Good Vibrations                                  ,The Beach Boys,,152,42,37,33,2012,Happy
+Shake It Off                                     ,Taylor Swift,,160,68,79,6,2014,Happy
+Dancing Queen                                    ,ABBA,,101,87,54,36,1976,Happy
+Best Day of My Life                              ,American Authors,,100,90,67,6,2014,Happy
+Uptown Funk                                      ,Mark Ronson ft. Bruno Mars,,115,61,86,1,2015,Happy
+Perfect                                          ,Ed Sheeran,,95,45,60,16,2017,Romantic
+All of Me                                        ,John Legend,,120,26,42,92,2013,Romantic
+Can't Help Falling in Love                       ,Elvis Presley,,100,29,40,94,1961,Romantic
+Make You Feel My Love                            ,Adele,,65,17,32,91,2008,Romantic
+My Heart Will Go On                              ,Celine Dion,,99,28,43,73,1997,Romantic
+A Thousand Years                                 ,Christina Perri,,139,41,42,31,2011,Romantic
+Something                                         ,The Beatles,,133,34,41,20,1969,Romantic
+I Will Always Love You                           ,Whitney Houston,,68,21,33,85,1992,Romantic
+Yellow                                           ,Coldplay,,173,66,43,0,2000,Romantic
+Lover                                            ,Taylor Swift,,69,54,36,49,2019,Romantic
+At Last                                          ,Etta James,,87,35,27,55,1960,Romantic
+I'm Yours                                        ,Jason Mraz,,123,38,85,17,2010,Romantic
+Just the Way You Are                             ,Bruno Mars,,106,30,53,84,2012,Romantic
+Shallow                                          ,Lady Gaga & Bradley Cooper,,96,39,58,37,2018,Romantic
+(Everything I Do) I Do It for You                 ,Bryan Adams,,131,37,53,8,1991,Romantic
+Stay with Me                                     ,Sam Smith,,108,75,66,18,2008,Romantic
+Your Song                                        ,Elton John,,128,32,55,83,1970,Romantic
+Unconditionally                                   ,Katy Perry,,129,73,43,0,2013,Romantic
+Chasing Cars                                     ,Snow Patrol,,104,60,56,20,2006,Romantic
+Ei Raat Tomar Amar                               ,Hemanta Mukherjee & Sandhya Mukherjee,,88,14,36,93,1959,Romantic
+Tumi Je Amar                                     ,Kishore Kumar & Asha Bhosle,,81,56,36,49,1980,Romantic
+Amar Hiyar Majhe                                 ,Debabrata Biswas,,85,56,30,70,2007,Romantic
+Ei Poth Jodi Na Sesh Hoy                         ,Kishore Kumar & Asha Bhosle,,92,30,70,58,1978,Romantic
+Amaro Porano Jaha Chay                           ,Srikanto Acharya,,134,39,45,83,2015,Romantic
+Tumi Robe Nirobe                                 ,Swagatalakshmi Dasgupta,,127,9,44,99,1971,Romantic
+Mon Majhi Re                                     ,Anupam Roy,,144,59,50,37,2013,Romantic
+Tumi Asbe Bole                                   ,Arijit Singh,,72,52,48,70,2012,Romantic
+Tomake Chai                                      ,Nachiketa Chakraborty,,80,62,49,83,2016,Romantic
+Pagla Hawa                                       ,Shreya Ghoshal & Rupankar,,117,66,77,8,2014,Romantic
+Tumi Jake Bhalobaso                              ,Rupankar,,122,45,58,80,2016,Romantic
+Amake Amar Moto Thakte Dao                      ,Anupam Roy,,148,41,55,75,2010,Romantic
+Tumi Je Amar                                     ,Arijit Singh,,100,50,45,50,2013,Romantic
+Alo Amar Alo                                     ,Rabindra Sangeet,,83,30,33,88,1978,Romantic
+Chirodini Tumi Je Amar                           ,Kishore Kumar,,110,75,48,85,1974,Romantic
+E Tumi Kemon Tumi                                ,Arijit Singh,,90,65,50,70,2012,Romantic
+Oh Hansini,Kishore Kumar,,131,34,36,90,1974,Romantic
+Jaan Hai Meri,Armaan Malik,,80,62,54,69,2022,Romantic
+Tu Chahiye,"Atif Aslam, Pritam",,134,74,56,40,2015,Romantic
+Baliye Re,Sachet Tandon,,108,67,66,62,2021,Romantic
+Zaalima,"Arijit Singh, Harshdeep Kaur",,88,90,49,31,2017,Romantic
+Hum Toh Deewane,Yasser Desai,,84,79,60,17,2023,Romantic
+Manjha,Vishal Mishra,,170,52,52,67,2020,Romantic
+Itni Si Baat,Arijit Singh,,156,77,56,49,2016,Romantic
+Tum Mile,"Javed Ali, Pritam",,123,80,74,32,2009,Romantic
+Mann Mera,Gajendra Verma,,192,77,54,5,2012,Romantic
+Kho Gaye,Taaruk Raina,,76,37,48,63,2022,Romantic
+Soniyo,Sonu Nigam,,120,59,64,50,2008,Romantic
+Thik Emon Ebhabe,Arijit Singh,,134,36,54,46,2015,Romantic
+I Am Not The Only One,Sam Smith,,82,48,68,53,2014,Sad
+Saware,"Arijit Singh, Pritam",,135,68,50,70,2015,Sad
+O Rangrez,"Divya Kumar, Shreya Ghoshal",,126,53,73,50,2013,Romantic
+Bulleya,Papon,,97,58,68,37,2016,Sad
+Tere Naina,"Shankar Mahadevan, Shreya Ghoshal",,93,74,52,56,2010,Romantic
+Mera Mann Kehne Laga,Falak Shabbir,,75,44,46,71,2013,Romantic
+Kalank,"Arijit Singh, Pritam",,118,55,57,52,2019,Sad
+Saudebaazi,Javed Ali,,114,73,69,12,2010,Romantic
+Khoobsurat,Vishal Mishra,,144,58,60,75,2024,Romantic
+Jhaak Maar Ke,Neeraj Shridhar,,95,90,80,24,2011,Energetic
+Tum Jo Aaye,"Rahat Fateh Ali Khan, Tulsi Kumar",,84,84,57,40,2010,Romantic
+Iktara,"Amit Trivedi, Kavita Seth",,80,53,62,40,2009,Romantic
+Dil Jhoom,Arijit Singh,,127,47,58,75,2023,Romantic
+Tere Hawale,"Arijit Singh, Shilpa Rao",,109,56,60,62,2023,Sad
+Abhi Kuch Dino Se,Mohit Chauhan,,92,70,70,65,2010,Happy
+Pehla Nasha,"Udit Narayan, Sadhana Sargam",,152,34,46,77,1991,Romantic
+Bahara,Shreya Ghoshal,,88,74,60,7,2010,Romantic
+Bheegi Bheegi,"James, Pritam",,95,43,51,99,2018,Sad
+Nadiyon Sa,Mitraz,,99,48,69,36,2023,Sad
+We Don’t Talk Anymore,Charlie Puth,,100,56,73,62,2016,Sad
+Tere Bina,"Arijit Singh, Akansha Sharma",,75,51,64,67,2024,Sad
+Jogi,"Yasser Desai, Akansha Sharma",,81,56,65,60,2017,Happy
+Aayi Nai,Pawan Singh,,123,65,86,59,2024,Energetic
+Tumhare Hi Rahenge,Varun Jain,,115,52,67,74,2024,Romantic
+Tu Har Lamha,Arijit Singh,,137,54,31,17,2014,Romantic
+Tum Ho,"Mohit Chauhan, Suzan D'Mello",,94,47,36,52,2011,Sad
+Sajini,Arijit Singh,,80,41,43,83,2024,Romantic
+Alag Aasman,Anuv Jain,,130,36,71,80,2023,Sad
+Gulabi Aankhen,Mohammad Rafi,,106,65,64,42,2019,Romantic
+Perfect,Ed Sheeran,,95,45,60,16,2017,Romantic
+Little Bit More,Suriel Hess,,86,33,56,68,2022,Happy
+Like I Do,J.Tajor,,86,30,50,60,2020,Energetic
+Life Goes On,Ed Sheeran,,80,49,70,0,2021,Energetic
+Tu Mileya,Darshan Raval,,81,57,38,86,2023,Romantic
+Paheli,"Raghav Chaitanya, Anurag Saikia",,114,52,66,17,2020,Happy
+Saiyyan,Kailash Kher and Band,,75,56,47,65,2011,Romantic
+Takeaway,The Chainsmokers,,141,86,79,28,2010,Sad
+Shivers,Ed Sheeran,,141,86,79,28,2021,Energetic
+Rasiya,"Tushar Joshi, Shreya Ghoshal",,79,80,54,37,2022,Romantic
+Piya More,"Mika Singh, Neeti Mohan",,95,83,69,29,2017,Energetic
+Har Funn Maula,"Vishal Dadlani, Zara Khan",,104,79,83,17,2021,Energetic
+Dil Mere,The Local Train,,93,47,666,84,2015,Sad
+Tu Meri,Vishal Dadlani,,128,69,68,8,2014,Energetic
+O Maahi,Arijit Singh,,117,67,62,56,2023,Romantic
+Hey Mama,David Guetta,,86,73,60,24,2014,Happy
+Sorry,Justin Bieber,,100,76,66,8,2019,Sad
